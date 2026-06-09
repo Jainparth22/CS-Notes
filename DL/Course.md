@@ -1,0 +1,1 @@
+This course is - Learning Deep Learning: From Perceptron to Large Language Models by Magnus Ekman
